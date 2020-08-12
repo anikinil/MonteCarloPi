@@ -4,4 +4,3 @@ A Monte Carlo simulation to calculate Pi
 Link: https://anikinil.github.io/MonteCarloPi/
 
 ![Example](/Screenshots/example.png)
-Format: ![Alt Text](url)
